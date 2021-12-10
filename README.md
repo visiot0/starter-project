@@ -1,4 +1,4 @@
-# starter-project
+# REACT NATIVE starter-project
 
 This project is a template for initialising a new react-native project.
 After having to set up the common packages I use on every project many times, I decided to make a react-native template with preinstalled packages that I use.
